@@ -1,3 +1,6 @@
+This is a work in progress
+
+
 ## Words to Watch
 
 Words to Watch (W2W) are words commonly misspelled or which may have variations that depend on the Joomla! style guide choices.
