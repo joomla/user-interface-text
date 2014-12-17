@@ -55,9 +55,6 @@ Use contractions eg can’t, you’ll. Avoid using ‘should’ve’, ‘could�
 Don’t use full stops after or between these notations.
 User testing has shown that some people are not familiar with abbreviations such as eg, so consider your audience before abbreviating.
 
-#### email
-* See Words to Watch
-
 #### etc
 * See eg, etc and ie
 
@@ -85,15 +82,13 @@ If in doubt, don’t use a hyphen
 #### ie
 * See eg, etc and ie
 
-#### internet - Lower case.
-See Words to Watch
-
 #### Italics
 Don’t use italics. Use ‘single quotation marks’ if referring to a document, scheme or initiative.
 
 #### Links
 Front-load your link text with the relevant terms and make them active and specific. 
 * TODO examples
+
 #### Lists
 See bullets and steps
 
@@ -113,9 +108,6 @@ See bullets and steps
 * Don’t use ‘£0.xx million’ for amounts less than £1 million.
 * Write out ‘pence’ in full eg ‘calls will cost 4 pence per minute from a landline’.
 * Currencies are lowercase.
-
-#### Multilingual
-* See Words to Watch
 
 #### Nouns
 
@@ -141,9 +133,6 @@ Use MB not KB for anything over 1MB, eg 4MB not 4096KB . For under 1MB, use KB, 
 Keep it as accurate as possible and up to 2 decimal places. For example: 4.03MB.
 
 Addresses: use ‘to’ in address ranges, for example: 49 to 53 Cherry Street.
-
-#### online - One word.
-See Words to Watch
 
 #### ordinal numbers
 Spell out first to ninth. After that use 10th etc. 
@@ -205,14 +194,5 @@ Tooltips should:
 #### Trademarked Name
 This should always be written with a capital letter unless the trademark is for lowercase.
 
-#### Twitter (trademarked name)
-See Words to Watch
-
 #### voice
-
-#### wi-fi (Lower case and hyphenated.)
-See Words to Watch
-
-#### Word document (Upper case, because it’s a brand name.)
-See Words to Watch
 
