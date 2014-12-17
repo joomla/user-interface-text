@@ -1,4 +1,9 @@
 
+#### 'a' or 'an' before H?
+* Use 'an' before a silent H: an heir, an hour
+* Use 'a' before an aspirated H: a hero, a hotel, a historian
+* With abbreviations, be guided by pronunciation: eg an HTML document
+
 #### Abbreviations and acronyms
 * The first time you use an abbreviation or acronym explain it in full on each page then refer to it by initials unless it’s well known, eg HTML, CSS etc. 
 * If you think your acronym is well known, please provide evidence that 80% of the UK population will understand, and commonly use, the term. Evidence can be from search analytics or testing of a representative sample.
@@ -8,8 +13,7 @@
 * Note that pdf is lowercase.
 
 #### Accents
-
-#### Acronyms
+* Use on French, German, Portuguese, Spanish and Irish Gaelic words (but not anglicised French words such as cafe, apart from exposé, lamé, résumé, roué).
 
 #### Americanisms
 * Don’t use Americanisms. You ‘fill in’ a form, not ‘fill out’ a form.
@@ -18,6 +22,9 @@
 
 #### Ampersand
 Use ‘and’ rather than an ‘&’, unless it’s a department’s logo image.
+
+####Apostrophes
+Used to indicate a missing letter or letters (can't, we'd) or a possessive (David's book).
 
 #### Brackets
 Use (round brackets), not [square brackets]. The only acceptable use of square brackets is for explanatory notes in reported speech, eg a minister’s speech: “Thank you [Foreign Minister] Mr Smith.
