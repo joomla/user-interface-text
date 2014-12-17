@@ -1,8 +1,11 @@
 
 #### Abbreviations and acronyms
-* The first time you use an abbreviation or acronym explain it in full on each page then refer to it by initials unless it’s well known, eg UK, DVLA, US, EU, VAT, MP etc. 
+* The first time you use an abbreviation or acronym explain it in full on each page then refer to it by initials unless it’s well known, eg HTML, CSS etc. 
 * If you think your acronym is well known, please provide evidence that 80% of the UK population will understand, and commonly use, the term. Evidence can be from search analytics or testing of a representative sample.
 * Don’t use full stops in abbreviations – BBC, not B.B.C.
+* Use all capitals if an abbreviation is pronounced as the individual letters (an initialism): HTML, CSS 
+* If it is an acronym (pronounced as a word) spell out with initial capital, eg Nasa, Nato, Unicef, unless it can be considered to have entered the language as an everyday word, such as laser and sim card. 
+* Note that pdf is lowercase.
 
 #### Accents
 
@@ -193,6 +196,4 @@ Tooltips should:
 
 #### Trademarked Name
 This should always be written with a capital letter unless the trademark is for lowercase.
-
-#### voice
 
