@@ -216,8 +216,3 @@ See Words to Watch
 #### Word document (Upper case, because it’s a brand name.)
 See Words to Watch
 
-
-
-##### Credits and Sources
-Based on documentation from https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style released under the following licence
-https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
