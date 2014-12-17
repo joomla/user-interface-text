@@ -209,10 +209,13 @@ This should always be written with a capital letter unless the trademark is for 
 See Words to Watch
 
 #### voice
+
 #### wi-fi (Lower case and hyphenated.)
 See Words to Watch
+
 #### Word document (Upper case, because it’s a brand name.)
 See Words to Watch
+
 
 
 ##### Credits and Sources
