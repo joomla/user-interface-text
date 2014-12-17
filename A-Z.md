@@ -146,30 +146,68 @@ Addresses: use ‘to’ in address ranges, for example: 49 to 53 Cherry Street.
 See Words to Watch
 
 #### ordinal numbers
+Spell out first to ninth. After that use 10th etc. 
+In tables, use numerals throughout.
 
 #### Oxford (or serial) comma.
 
 #### Punctuation
 
 #### Quotes and speech marks
+In long passages of speech, open quotes for every new paragraph, but close quotes only at the end of the final paragraph.
+
+##### Single quotes
+Use single quotes:
+* in headlines
+* for unusual terms
+* when referring to words or publications, for example: ‘Download the publication ‘Understanding Capital Gains Tax’ (PDF, 360KB)’
+
+##### Double quotes
+Use double quotes in body text for direct quotations.
+
+##### Block quotes
+Use the block quote markdown for quotes longer than a few sentences.
 
 #### Seasons
+spring, summer, autumn, winter are lowercase. 
+Try to avoid using them as they are not global.
+See Words to Watch
 
 #### Sentence length
+Don’t use long sentences – check any sentences with more than 25 words to see if you can split them to make them clearer.
 
 #### Spaces
-
-#### Summaries (tooltip)
+Use only one space after a full stop, not 2.
 
 #### Times
+* use ‘to’ in time ranges – not hyphens, en rules or em dashes, eg 10am to 11am (not 10–11am)
+* 5:30pm (not 1730hrs)
+* midnight, not 00:00
+* midday, not 12 noon, noon or 12pm
 
 #### Titles
+Titles should:
+* be 65 characters
+* be unique, clear and descriptive
+* be front-loaded and optimised for search
+* use a colon to break up longer titles
+* not contain dashes or slashes
+* not have a full stop at the end
+* not use acronyms unless they are well-known eg EU
+
+#### Tooltips
+Tooltips should:
+* be 140 characters or less
+* end with a full stop
+* not repeat the title or body text
+* be clear and specific
 
 #### Trademarked Name
 This should always be written with a capital letter unless the trademark is for lowercase.
 
 #### Twitter (trademarked name)
 See Words to Watch
+
 #### voice
 #### wi-fi (Lower case and hyphenated.)
 See Words to Watch
