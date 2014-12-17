@@ -2,7 +2,7 @@
 * https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style
 
 #### Other Sources
-* http://www.theguardian.com/guardian-observer-style-guide-a
+* http://www.theguardian.com/info/series/guardian-and-observer-style-guide
 * http://www.economist.com/styleguide/introduction
 
 #### UI Source 
