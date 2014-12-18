@@ -13,3 +13,5 @@ For usage rights see http://www.theguardian.com/media/mind-your-language/2011/ja
 * https://developer.apple.com/library/mac/documentation/UserExperience/Conceptual/OSXHIGuidelines/TerminologyWording.html#//apple_ref/doc/uid/20000957-CH15-SW4I
 * http://msdn.microsoft.com/en-gb/library/windows/desktop/dn742478.aspx
 
+#### Punctuation Codes
+* http://character-code.com/punctuation-html-codes.php
