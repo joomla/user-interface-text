@@ -124,7 +124,8 @@ See bullets and steps
 Use 'one' unless you're talking about a step, a point in a list or another situation where using the numeral makes more sense.   
 For example 
 * In point 1 of the design instructions.
-* You'll be shown 14 clips that feature everyday road scenes.
+* You'll be shown 14 clips that feature everyday road scenes.  
+
 Write all other numbers in numerals (including 2 to 9) except where it's part of a common expression and it would look strange, eg 'one or two of them'. Use common sense.  
 If a number starts a sentence, write it out in full ('Thirty-four images on the page') except where it starts a title or subheading.  
 For numerals over 999 – insert a comma for clarity. 'It was over 9,000'.  
