@@ -126,14 +126,14 @@ For example
 * In point 1 of the design instructions.
 * You'll be shown 14 clips that feature everyday road scenes.  
 
-Write all other numbers in numerals (including 2 to 9) except where it's part of a common expression and it would look strange, eg 'one or two of them'. Use common sense.  
-If a number starts a sentence, write it out in full ('Thirty-four images on the page') except where it starts a title or subheading.  
-For numerals over 999 – insert a comma for clarity. 'It was over 9,000'.  
-Spell out common fractions, such as one-half, but use a % sign for percentages with no space, eg 50%.  
-Use '500 to 900' and not '500–900' (except in tables).  
-Use MB not KB for anything over 1MB, eg 4MB not 4096KB . For under 1MB, use KB, eg 569KB not 0.55MB.  
-If necessary keep it as accurate as possible and up to 2 decimal places. For example: 4.03MB.  
-Addresses: use 'to' in address ranges, for example: 49 to 53 Cherry Street.
+* Write all other numbers in numerals (including 2 to 9) except where it's part of a common expression and it would look strange, eg 'one or two of them'. Use common sense.  
+* If a number starts a sentence, write it out in full ('Thirty-four images on the page') except where it starts a title or subheading.  
+* For numerals over 999 – insert a comma for clarity. 'It was over 9,000'.  
+* Spell out common fractions, such as one-half, but use a % sign for percentages with no space, eg 50%.  
+* Use '500 to 900' and not '500–900' (except in tables).  
+* Use MB not KB for anything over 1MB, eg 4MB not 4096KB . For under 1MB, use KB, eg 569KB not 0.55MB.  
+* If necessary keep it as accurate as possible and up to 2 decimal places. For example: 4.03MB.  
+* Addresses: use 'to' in address ranges, for example: 49 to 53 Cherry Street.
 
 #### ordinal numbers
 Spell out first to ninth. After that use 10th etc. 
