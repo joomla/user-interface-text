@@ -26,9 +26,9 @@ A repository for the en-GB style guide of Joomla! language strings.
 
 ### Contents
 [A-Z](blob/master/A-Z.md)  
-[Screen Example](blob/master/Screen_Example.md)  
-[Use of the Joomla! name] (blob/master/joomla_name_usage.md)  
-[String naming] (blob/master/string_naming.md)  
-[Words to Watch](blob/master/words2watch.md)  
-[References](blob/master/references.md)  
+[Screen Example](Screen_Example.md)  
+[Use of the Joomla! name] (joomla_name_usage.md)  
+[String naming] (string_naming.md)  
+[Words to Watch](words2watch.md)  
+[References](references.md)  
 
