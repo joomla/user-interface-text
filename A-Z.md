@@ -48,6 +48,12 @@ DON'T USE BLOCK CAPITALS FOR LARGE AMOUNTS OF TEXT AS IT'S QUITE HARD TO READ.
 Lower case is preferable but use capitalisation for:
 * Menu items and Labels - Do not capitalise joining words and words of three characters or less such as and, to, for.
 
+#### Check in, Check out
+Check-in is hyphenated when it’s a noun eg  I was early for check-in
+Check in is two words when it's a verb eg I walked up to the counter to check in
+Checkout is one word when it's a noun eg you wait in the checkout line
+Check out is two words when it's a verb eg you are ready to check out of the hotel
+
 #### Contractions
 Use contractions eg can't, you'll. Avoid using should've', could've, would've etc – these are hard to read.
 
@@ -94,10 +100,6 @@ If in doubt, don't use a hyphen
 #### Italics
 Don't use italics. Use 'single quotation marks' if referring to a document, scheme or initiative.
 
-#### Links
-Front-load your link text with the relevant terms and make them active and specific. 
-* TODO examples
-
 #### Lists
 See bullets and steps
 
@@ -108,8 +110,8 @@ See bullets and steps
 * Use the minus sign for subtraction not the dash. 
 * Use the correct symbol for the multiplication sign (×), not the letter x. (&times; or &#215;) 
 
-#### Measurements (w or W, h or H, px or PX)
-* TODO
+#### Measurements 
+* Use lower case for all measurements eg px, em, w and h
 
 #### Money
 * Use the £ symbol with no space: – £75.
@@ -117,8 +119,6 @@ See bullets and steps
 * Don't use '£0.xx million' for amounts less than £1 million.
 * Write out 'pence' in full eg 'calls will cost 4 pence per minute from a landline'.
 * Currencies are lowercase.
-
-#### Nouns
 
 #### Numbers
 Use 'one' unless you're talking about a step, a point in a list or another situation where using the numeral makes more sense.   
