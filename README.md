@@ -1,4 +1,4 @@
-user-interface-text
+User Interface Text
 ===================
 
 A repository for the en-GB style guide of Joomla! language strings.
