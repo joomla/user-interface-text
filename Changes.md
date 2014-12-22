@@ -1,4 +1,4 @@
-## These are proposed changes to current behaviour 
+## These are proposed changes to current standards 
 
 Need to get my head around this. It looks like we have the two items below IF we have sub-menus eg Article Manager, Article Manager: Article, Article Manager:Categories  
 But it's not consistent 
