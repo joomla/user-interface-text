@@ -1,4 +1,4 @@
-###Why do we have Manager?
+### Why do we have Manager?
 
 This dates back over 10 years to Mambo. Do we need it? Doesn't it just complicate things?
 
