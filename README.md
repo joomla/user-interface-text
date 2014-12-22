@@ -22,10 +22,10 @@ A repository for the en-GB style guide of Joomla! language strings.
 * Primary: Basis for all en-GB strings
 * Secondary: Assist non native en-GB developers writing language strings in en-GB
 * Tertiary: Provide guidelines for l10n teams 	
-* 
+
 
 ### Contents
-[A-Z](blob/master/A-Z.md)  
+[A-Z](A-Z.md)  
 [Screen Example](Screen_Example.md)  
 [Use of the Joomla! name] (joomla_name_usage.md)  
 [String naming] (string_naming.md)  
