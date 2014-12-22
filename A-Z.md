@@ -103,6 +103,12 @@ Don't use italics. Use 'single quotation marks' if referring to a document, sche
 #### Lists
 See bullets and steps
 
+#### Log in, Log out
+Login is one word (not hyphenated) when it's a noun eg go to the login page 
+Log in is two words when it's a verb eg you log in with your password
+Logout is one word (not hyphenated) when it's a noun eg select the logout menu
+Log out is two words when it's a verb eg you log out by clicking on the button
+
 #### Maths 
 * Use a minus sign for negative numbers with no space: –6
 * Ratios have no space either side of the colon: 5:12
