@@ -15,3 +15,11 @@ etc
 
 But it gets messed up because the menu items both in the dropdown and in the sidebar just have the second part eg User Groups
 
+####Current Screen
+
+![Current Screen](https://cloud.githubusercontent.com/assets/1296369/5528415/e1b62a8c-89ff-11e4-803b-3fcb5ae13b62.png)
+
+####Proposed Screen
+
+![Proposed Screen](https://cloud.githubusercontent.com/assets/1296369/5528406/cccd43bc-89ff-11e4-92ef-7469d59f0f2c.png)
+
