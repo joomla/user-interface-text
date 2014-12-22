@@ -1,3 +1,12 @@
 ###Why do we have Manager?
 
 This dates back over 10 years to Mambo. Do we need it? Doesn't it just complicate things?
+
+####Consistency
+Whatever we do we must be consistent
+
+From what I can tell the logic is
+Component Name: View Name
+
+Default - index.php?option=com_users - User Manager
+
