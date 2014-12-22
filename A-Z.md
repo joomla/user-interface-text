@@ -46,7 +46,7 @@ Use numbered steps instead of bullet points to guide a user through a process. Y
 DON'T USE BLOCK CAPITALS FOR LARGE AMOUNTS OF TEXT AS IT'S QUITE HARD TO READ.
 
 Lower case is preferable but use capitalisation for:
-* TODO
+* Menu items and Labels - Do not capitalise joining words and words of three characters or less such as and, to, for.
 
 #### Contractions
 Use contractions eg can't, you'll. Avoid using should've', could've, would've etc – these are hard to read.
@@ -80,11 +80,11 @@ Hyphenate:
 * co-operate
 
 Don't hyphenate:
+* email
 * reuse
 * reinvent
 * reorder
 * reopen
-* email
 
 If in doubt, don't use a hyphen
 
