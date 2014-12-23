@@ -1,4 +1,4 @@
-This is a work in progress
+This is a work in progress and should be a 'living document' that can be updated as needed over time.
 
 
 ## Words to Watch
