@@ -1,5 +1,5 @@
 ## Use of the Joomla! name
-(Awaiting info from the Tradeark Team)
+(Awaiting info from the Trademark Team)
 The information below is specific to content not sure how it applies to language strings.
 
 #### Joomla! is a registered trademark so should always be capitalised
