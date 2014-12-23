@@ -21,10 +21,10 @@
 * Use the 'ise' rather than 'ize' suffix, eg organise not organize (this isn't actually an Americanism but is often seen as such).
 
 #### Check in, Check out
-Check-in is hyphenated when it’s a noun eg  I was early for check-in
-Check in is two words when it's a verb eg I walked up to the counter to check in
-Checkout is one word when it's a noun eg you wait in the checkout line
-Check out is two words when it's a verb eg you are ready to check out of the hotel
+Check-in is hyphenated when it’s a noun eg  I was early for check-in  
+Check in is two words when it's a verb eg I walked up to the counter to check in  
+Checkout is one word when it's a noun eg you wait in the checkout line  
+Check out is two words when it's a verb eg you are ready to check out of the hotel  
 
 #### Contractions
 Use contractions eg can't, you'll. Avoid using should've', could've, would've etc – these are hard to read.
@@ -49,9 +49,9 @@ Use upper case for: East End, West End (London), Middle East, Central America, S
 
 #### Log in, Log out
 Login is one word (not hyphenated) when it's a noun eg go to the login page 
-Log in is two words when it's a verb eg you log in with your password
-Logout is one word (not hyphenated) when it's a noun eg select the logout menu
-Log out is two words when it's a verb eg you log out by clicking on the button
+Log in is two words when it's a verb eg you log in with your password  
+Logout is one word (not hyphenated) when it's a noun eg select the logout menu  
+Log out is two words when it's a verb eg you log out by clicking on the button  
 
 #### Maths 
 * Use a minus sign for negative numbers with no space: –6
