@@ -103,7 +103,7 @@ Don't use long sentences – check any sentences with more than 25 words to see 
 
 #### Titles
 Titles should:
-* be 65 characters
+* should be no longer than 65 characters  
 * be unique, clear and descriptive
 * be front-loaded and optimised for search
 * use a colon to break up longer titles
