@@ -8,7 +8,7 @@ Used to indicate a missing letter or letters (can't, we'd) or a possessive (Davi
 #### Brackets
 Use (round brackets), not [square brackets]. The only acceptable use of square brackets is for explanatory notes in reported speech, eg a minister's speech: “Thank you [Foreign Minister] Mr Smith.
 
-#### Bullet points and numbered steps
+#### Bullet points (ul) and numbered steps (ol)  
 You can use bullet points to make text easier to read. Make sure that:
 
 * you always use a lead-in line
