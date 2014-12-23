@@ -8,6 +8,7 @@ A repository for the en-GB style guide of Joomla! language strings.
 [Changes](Changes.md)  
 [Manager](manager.md)  
 [Consistency](consistency.md)  
+[Capitalisation](capitalisation.md)  
 [Use of the Joomla! name] (joomla_name_usage.md)  
 [String naming] (string_naming.md)  
 [Words to Watch](words2watch.md)  
