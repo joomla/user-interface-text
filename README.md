@@ -7,7 +7,7 @@ A repository for the en-GB style guide of Joomla! language strings.
 [A-Z](A-Z.md)  
 [Changes](Changes.md)  
 [Manager](manager.md)  
-[Concistency](consistency.md)
+[consistency.md](consistency.md)  
 [Use of the Joomla! name] (joomla_name_usage.md)  
 [String naming] (string_naming.md)  
 [Words to Watch](words2watch.md)  
