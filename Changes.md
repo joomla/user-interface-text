@@ -10,3 +10,6 @@ Sometimes we use the word Manager and sometimes we don't. As with everything we 
 ### Colon
 Sometimes we use the colon eg  Article Manager: Articles
 Sometimes we don't eg Article Manager Options
+
+### Consistency 
+There is often a mismatch between the label used for a menu item in the drop down and the label used in the sidebar. 
