@@ -20,28 +20,6 @@
 * Exceptions include where it's part of a specific name, eg '4th Mechanized Brigade'.
 * Use the 'ise' rather than 'ize' suffix, eg organise not organize (this isn't actually an Americanism but is often seen as such).
 
-#### Ampersand
-Use 'and' rather than an '&', unless it's part of a trademark.
-
-#### Apostrophes
-Used to indicate a missing letter or letters (can't, we'd) or a possessive (David's book).
-
-#### Brackets
-Use (round brackets), not [square brackets]. The only acceptable use of square brackets is for explanatory notes in reported speech, eg a minister's speech: “Thank you [Foreign Minister] Mr Smith.
-
-#### Bullet points and numbered steps
-You can use bullet points to make text easier to read. Make sure that:
-
-* you always use a lead-in line
-* the bullets make sense running on from the lead-in line
-* you use lower case at the start of the bullet
-* you don't use more than one sentence per bullet point – use commas, dashes or semicolons to expand on an item
-* you don't put 'or', 'and' after the bullets
-* if you add links they appear within the text and not as the whole bullet
-* there is no full stop after the last bullet point
-
-Use numbered steps instead of bullet points to guide a user through a process. You don't need a lead-in line and you can use links and downloads (with appropriate markup) in steps. Each step ends in a full stop because each step should be a complete sentence.
-
 #### Check in, Check out
 Check-in is hyphenated when it’s a noun eg  I was early for check-in
 Check in is two words when it's a verb eg I walked up to the counter to check in
@@ -61,41 +39,13 @@ Use contractions eg can't, you'll. Avoid using should've', could've, would've et
 * don't use 'quarter' for dates; use the months, for example: 'expenses, Jan to Mar 2013'
 * when referring to 'today' (eg in a news article) make sure you include the date as well eg 'The minister announced today (14 June 2012) that…'
 
-#### eg, etc and ie
-Don't use full stops after or between these notations.
-User testing has shown that some people are not familiar with abbreviations such as eg, so consider your audience before abbreviating.
-
-#### etc
-* See eg, etc and ie  
 
 #### Geography and regions
 Use lower case for north, south, east and west, except when they're part of a name or recognised region. So, 'the south-west' (compass direction), but 'the South West' (administrative region).  
 Use lower case for: the north, the south of England, the south-west, north-east Scotland, south Wales, the west, western Europe, the far east, south-east Asia.  
 Use upper case for: East End, West End (London), Middle East, Central America, South America, Latin America.
 
-#### Hyphenation
-Hyphenate:
-* 're-' words only if they start with 'e', eg re-evaluate
-* co-ordinate
-* co-operate
 
-Don't hyphenate:
-* email
-* reuse
-* reinvent
-* reorder
-* reopen
-
-If in doubt, don't use a hyphen
-
-#### ie
-* See eg, etc and ie
-
-#### Italics
-Don't use italics. Use 'single quotation marks' if referring to a document, scheme or initiative.
-
-#### Lists
-See bullets and steps
 
 #### Log in, Log out
 Login is one word (not hyphenated) when it's a noun eg go to the login page 
@@ -139,30 +89,11 @@ For example
 Spell out first to ninth. After that use 10th etc. 
 In tables, use numerals throughout.
 
-#### Punctuation
-For all punctuation use the character code not the keyboard. Order of precedence is HTML Name, HTML Decimal Code, Unicode Hexadecimal.
-
-##### Oxford (or serial) comma.
-We don't use the Oxford comma so the final item in a list before the 'and' does not have a comma
-
-##### Quotes and speech marks
-Use `&quot; &#34;  &#x22;` at the beginning and end
-
-##### Single quotes
-Use either `&#39; &#x27;` at the beginning and end
-Use single quotes:
-* in headlines
-* for unusual terms
-* when referring to words or publications, for example: Download the manual 'Understanding ACL' (PDF, 360KB)'
-
 #### Seasons
 Try to avoid using them as they are not global. spring, summer, autumn, winter are lowercase. 
 
 #### Sentence length
 Don't use long sentences – check any sentences with more than 25 words to see if you can split them to make them clearer.
-
-#### Spaces
-Use only one space after a full stop, not 2.
 
 #### Times
 * use 'to' in time ranges – not hyphens, en rules or em dashes, eg 10am to 11am (not 10–11am)
