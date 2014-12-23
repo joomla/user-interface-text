@@ -56,7 +56,7 @@ Don't use italics. Use 'single quotation marks' if referring to a document, sche
 See bullets and steps  
 
 #### Punctuation
-For all punctuation use the character code not the keyboard. Order of precedence is HTML Name, HTML Decimal Code, Unicode Hexadecimal.
+For quotes, single quotes and speech marksuse the character code not the keyboard. Order of precedence is HTML Name, HTML Decimal Code, Unicode Hexadecimal.
 
 ##### Oxford (or serial) comma.
 We don't use the Oxford comma so the final item in a list before the 'and' does not have a comma
