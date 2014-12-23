@@ -11,7 +11,7 @@ Use (round brackets), not [square brackets]. The only acceptable use of square b
 #### Bullet points (ul) and numbered steps (ol)  
 You can use bullet points to make text easier to read. Make sure that:
 
-* you always use a lead-in line
+* you always use an introductory line
 * the bullets make sense running on from the lead-in line
 * you use lower case at the start of the bullet
 * you don't use more than one sentence per bullet point – use commas, dashes or semicolons to expand on an item
