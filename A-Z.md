@@ -85,7 +85,7 @@ For example
 * If necessary keep it as accurate as possible and up to 2 decimal places. For example: 4.03MB.  
 * Addresses: use 'to' in address ranges, for example: 49 to 53 Cherry Street.
 
-#### ordinal numbers
+#### Ordinal Numbers
 Spell out first to ninth. After that use 10th etc. 
 In tables, use numerals throughout.
 
