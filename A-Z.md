@@ -42,12 +42,6 @@ You can use bullet points to make text easier to read. Make sure that:
 
 Use numbered steps instead of bullet points to guide a user through a process. You don't need a lead-in line and you can use links and downloads (with appropriate markup) in steps. Each step ends in a full stop because each step should be a complete sentence.
 
-#### Capitalisation
-DON'T USE BLOCK CAPITALS FOR LARGE AMOUNTS OF TEXT AS IT'S QUITE HARD TO READ.
-
-Lower case is preferable but use capitalisation for:
-* Menu items and Labels - Do not capitalise joining words and words of three characters or less such as and, to, for.
-
 #### Check in, Check out
 Check-in is hyphenated when it’s a noun eg  I was early for check-in
 Check in is two words when it's a verb eg I walked up to the counter to check in
