@@ -48,7 +48,7 @@ Use upper case for: East End, West End (London), Middle East, Central America, S
 
 
 #### Log in, Log out
-Login is one word (not hyphenated) when it's a noun eg go to the login page 
+Login is one word (not hyphenated) when it's a noun eg go to the login page  
 Log in is two words when it's a verb eg you log in with your password  
 Logout is one word (not hyphenated) when it's a noun eg select the logout menu  
 Log out is two words when it's a verb eg you log out by clicking on the button  
