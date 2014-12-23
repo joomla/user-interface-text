@@ -25,6 +25,9 @@ Use numbered steps instead of bullet points to guide a user through a process. Y
 Don't use full stops after or between these notations.
 User testing has shown that some people are not familiar with abbreviations such as eg, so consider your audience before abbreviating.
 
+#### Ellipsis
+An ellipsis is a set of three periods ( . . . ) indicating an omission. Each period should have a single space on either side.  
+
 #### etc
 * See eg, etc and ie  
 
