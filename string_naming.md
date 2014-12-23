@@ -2,6 +2,8 @@ This is a work in progress
 
 ### Strings should be alpha ordered in the language file
 
+### Example naming of strings
+
 #### Title
 MOD_XXX"
 
