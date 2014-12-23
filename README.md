@@ -18,7 +18,7 @@ A repository for the en-GB style guide of Joomla! language strings.
 [To Do List](todo.md)
 
 
-###Abstract - TL:DR
+###Abstract
 * The official language of Joomla is en-GB and yet the actual strings we use have been created over 10 years mainly by people who are not native en-GB speakers. 
 * We have no style guide to determine the correct usage of en-GB for example: capitalisation and punctuation.
 * The primary aim is to create a single short document that will assist anyone writing new language strings for Joomla.
