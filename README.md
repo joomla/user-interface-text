@@ -29,7 +29,7 @@ A repository for the en-GB style guide of Joomla! language strings.
 ####Purpose
 * Establish official style guidelines for writing en-GB strings.
 * Ensure consistency throughout Joomla.
-* Provide l10n teams with an easy framework and guidelines to create their own style guides.	
+* Provide translation teams with an easy framework and guidelines to create their own style guides.	
 
 ####Target audience
 * Primary: Developers writing en-GB strings
