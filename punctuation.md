@@ -26,7 +26,10 @@ Don't use full stops after or between these notations.
 User testing has shown that some people are not familiar with abbreviations such as eg, so consider your audience before abbreviating.
 
 #### Ellipsis
-An ellipsis is a set of three periods ( . . . ) indicating an omission. Each period should have a single space on either side.  
+An ellipsis is a set of three periods ( . . . ) indicating an omission. Each period should have a single space on either side. Unless it is at the end of a string where there is no space or period after.  
+Example 
+* Read more ...
+* Create some text ... add some pictures.
 
 #### etc
 * See eg, etc and ie  
