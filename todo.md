@@ -1,5 +1,5 @@
-1. Review documents  
-2. Submit to PLT for approval  
+- [ ]1. Review documents 
+- [ ]2. Submit to PLT for approval  
 3. Prepare Pull Requests  
 4. Create process for approving new and changed en-GB strings  
 5. Publish these docs somewhere  
