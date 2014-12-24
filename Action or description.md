@@ -10,6 +10,12 @@ Check in is two words when it's a verb eg I walked up to the counter to check in
 Checkout is one word when it's a noun eg you wait in the checkout line  
 Check out is two words when it's a verb eg you are ready to check out of the hotel  
 
+####Feature / Unfeature Vs Featured / Unfeatured
+Feature is an action so it is used on buttons  
+Unfeature is an action so it is used on buttons  
+Featured is a description so it is used in filters and selects  
+Unfeatured is a description so it is used in filters and selects  
+
 #### Log in, Log out
 Login is one word (not hyphenated) when it's a noun eg go to the login page  
 Log in is two words when it's a verb eg you log in with your password  
