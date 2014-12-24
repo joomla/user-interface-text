@@ -4,7 +4,7 @@ User Interface Text
 A repository for the en-GB style guide of Joomla! language strings.
 
 ### Contents
-[Process](process-for-plt.md)
+[Process](process-for-plt.md)  
 [A-Z](A-Z.md)  
 [Changes](Changes.md)  
 [Manager](manager.md)  
