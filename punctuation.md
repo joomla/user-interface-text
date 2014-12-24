@@ -1,6 +1,6 @@
 
 #### Ampersand
-Use 'and' rather than an '&', unless it's part of a trademark.
+Unless in a title or referring to a title use 'and' rather than an '&', unless it's part of a trademark. Where it is used then it should be `&amp;` and not `&`  
 
 #### Apostrophes
 Used to indicate a missing letter or letters (can't, we'd) or a possessive (David's book).
