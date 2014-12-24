@@ -6,6 +6,7 @@ A repository for the en-GB style guide of Joomla! language strings.
 ### Contents
 [Process](process-for-plt.md)  
 [A-Z](A-Z.md)  
+[Action or description](Action or description.md)  
 [Changes](Changes.md)  
 [Manager](manager.md)  
 [Consistency](consistency.md)  
