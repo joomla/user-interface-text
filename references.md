@@ -1,6 +1,7 @@
 ### Main Sources 
-* https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style  
+* [gov.uk](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style)  
 released under the following licence https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+* [European Commission Directorate-General for Translation](http://ec.europa.eu/translation/english/guidelines/documents/styleguide_english_dgt_en.pdf)  
 
 #### Other Sources
 * http://www.theguardian.com/info/series/guardian-and-observer-style-guide  
