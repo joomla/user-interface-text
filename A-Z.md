@@ -51,6 +51,9 @@ Use upper case for: East End, West End (London), Middle East, Central America, S
 
 #### Measurements 
 * Use lower case for all measurements eg px, em, w and h
+* Use the metric system for mass and non-web measurements eg kg, cm and m 
+* Use celcius for temperature eg 34c
+* For all other measurements use SI
 
 #### Money
 * Use the £ symbol with no space: – £75.
