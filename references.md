@@ -4,10 +4,11 @@ released under the following licence https://www.nationalarchives.gov.uk/doc/ope
 * [European Commission Directorate-General for Translation](http://ec.europa.eu/translation/english/guidelines/documents/styleguide_english_dgt_en.pdf)  
 
 #### Other Sources
-* http://www.theguardian.com/info/series/guardian-and-observer-style-guide  
+* [The Guardian](http://www.theguardian.com/info/series/guardian-and-observer-style-guide)
 For usage rights see http://www.theguardian.com/media/mind-your-language/2011/jan/24/mind-your-language-telegraph-style-guide 
-* http://www.economist.com/styleguide/introduction
-* http://www.telegraph.co.uk/topics/about-us/style-book/
+* [The Economist](http://www.economist.com/styleguide/introduction_
+* [The Telegraph](http://www.telegraph.co.uk/topics/about-us/style-book/)
+* [The BBC](http://www.bbc.co.uk/academy/journalism/news-style-guide)
 
 #### UI Source 
 * https://developer.mozilla.org/en-US/Apps/Design/Copy_styleguide
