@@ -1,5 +1,6 @@
 This is a work in progress and should be a 'living document' that can be updated as needed over time.
 
+**Do one final pass through the sources for all of these words**
 
 ## Words to Watch
 
