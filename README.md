@@ -30,6 +30,7 @@ A repository for the en-GB style guide of Joomla! language strings.
 * Establish official style guidelines for writing en-GB strings.
 * Ensure consistency throughout Joomla.
 * Provide translation teams with an easy framework and guidelines to create their own style guides.	
+* See [NNG on American vs British english for the web](http://www.nngroup.com/articles/american-vs-british-english-for-web/)
 
 ####Target audience
 * Primary: Developers writing en-GB strings
