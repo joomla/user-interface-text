@@ -63,23 +63,10 @@ Use upper case for: East End, West End (London), Middle East, Central America, S
 * Currencies are lowercase.
 
 #### Numbers
-Use 'one' unless you're talking about a step, a point in a list or another situation where using the numeral makes more sense.   
-For example 
-* In point 1 of the design instructions.
-* You'll be shown 14 clips that feature everyday road scenes.  
-
-* Write all other numbers in numerals (including 2 to 9) except where it's part of a common expression and it would look strange, eg 'one or two of them'. Use common sense.  
-* If a number starts a sentence, write it out in full ('Thirty-four images on the page') except where it starts a title or subheading.  
-* For numerals over 999 – insert a comma for clarity. 'It was over 9,000'.  
-* Spell out common fractions, such as one-half, but use a % sign for percentages with no space, eg 50%.  
-* Use '500 to 900' and not '500–900' (except in tables).  
-* Use MB not KB for anything over 1MB, eg 4MB not 4096KB . For under 1MB, use KB, eg 569KB not 0.55MB.  
-* If necessary keep it as accurate as possible and up to 2 decimal places. For example: 4.03MB.  
-* Addresses: use 'to' in address ranges, for example: 49 to 53 Cherry Street.
-
-#### Ordinal Numbers
-Spell out first to ninth. After that use 10th etc. 
-In tables, use numerals throughout.
+(I have changed this based on the NNG findings (http://www.nngroup.com/articles/web-writing-show-numbers-as-numerals/)  
+* Write numbers with digits, not letters (23, not twenty-three).
+* Use numerals even when the number is the first word in a sentence or bullet point.
+* Use numerals for big numbers up to one billon. As a compromise, you can often use numerals for the significant digits and write out the magnitude as a word. For example, write 24 billion.
 
 #### Seasons
 Try to avoid using them as they are not global. spring, summer, autumn, winter are lowercase. 
