@@ -1,14 +1,17 @@
-### Main Sources 
+### Main en-GB Sources 
 * [gov.uk](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style)  
 released under the following licence https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 * [European Commission Directorate-General for Translation](http://ec.europa.eu/translation/english/guidelines/documents/styleguide_english_dgt_en.pdf)  
 
-#### Other Sources
+#### Other en-GB Sources
 * [The Guardian](http://www.theguardian.com/info/series/guardian-and-observer-style-guide)
 For usage rights see http://www.theguardian.com/media/mind-your-language/2011/jan/24/mind-your-language-telegraph-style-guide 
 * [The Economist](http://www.economist.com/styleguide/introduction_
 * [The Telegraph](http://www.telegraph.co.uk/topics/about-us/style-book/)
 * [The BBC](http://www.bbc.co.uk/academy/journalism/news-style-guide)
+ 
+#### Useful Reading
+* [Nielsen Norman Group](http://www.nngroup.com/articles/)
 
 #### UI Source 
 * https://developer.mozilla.org/en-US/Apps/Design/Copy_styleguide
