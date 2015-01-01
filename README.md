@@ -25,6 +25,7 @@ A repository for the en-GB style guide of Joomla! language strings.
 * We have no style guide to determine the correct usage of en-GB for example: capitalisation and punctuation.
 * The primary aim is to create a single short document that will assist anyone writing new language strings for Joomla.
 * A secondary aim is that this style guide can be used as a basis for translation teams
+* Traditional rules of grammar do not always apply to the web. See [Break Grammar Rules on Websites for Clarity](http://www.nngroup.com/articles/break-grammar-rules/)
 
 ####Purpose
 * Establish official style guidelines for writing en-GB strings.
