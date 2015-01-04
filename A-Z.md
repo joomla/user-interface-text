@@ -22,7 +22,7 @@
 
 
 #### Contractions
-Use contractions eg can't, you'll. Avoid using should've, could've, would've etc – these are hard to read.
+Use contractions sparingly eg can't. Avoid using you'll, you've, should've, could've, would've etc – these are hard to read.
 
 #### Dates
 * use upper case for months eg January, February
