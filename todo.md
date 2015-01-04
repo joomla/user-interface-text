@@ -1,5 +1,6 @@
 * ~~Review documents~~  
 * ~~Submit to PLT for approval~~  
+* ~~PLT approval~~
 * PLT Announcement  
 * Prepare Pull Requests  
 * Create process for approving new and changed en-GB strings  
