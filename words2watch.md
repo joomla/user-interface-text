@@ -1,6 +1,4 @@
-This is a work in progress and should be a 'living document' that can be updated as needed over time.
-
-**Do one final pass through the sources for all of these words**
+**This is a work in progress and should be a 'living document' that can be updated as needed over time.**
 
 ## Words to Watch
 
@@ -91,7 +89,7 @@ An entry, which is just a word without a comment, is to show how we are spelling
 | style sheet                                 | stylesheet style-sheet           | Two words no hyphen                                                                                                                                                                                                                                                       |
 | subdirectory                                | sub-directory sub directory      | One word                                                                                                                                                                                                                                                                  |
 | success and successful                      | sucess                           | Spell with a double c and a double s.                                                                                                                                                                                                                                     |
-| Super Administrator                         | super administrator              | Always capitalise when referring to the Joomla! User level.                                                                                                                                                                                                               |
+|Super User | Super Administrator super administrator | Always capitalise when referring to the Joomla! User. There is no such thing as a Super Administrator                                                                                                                                                                                                               |
 | surprise                                    |                                  | Spell with an r before and after the p.                                                                                                                                                                                                                                   |
 |text area| text-area textarea| When referring to the area that you enter content then it is two words. When referring to the HTML tag then it is one word|
 |toolbar                                     | tool bar tool-bar                | One word                                                                                                                                                                                                                                                                  |
