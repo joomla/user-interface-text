@@ -104,6 +104,7 @@ An entry, which is just a word without a comment, is to show how we are spelling
 | Username                                    | user name                        | One word. You login with the Username NOT the login name |  
 
 |UTF-8 |utf-8 utf8| Always uppercase and hyphenated|
+|vCard|VCard vcard Vcard | always spelt vCard even at the beginning of a sentence or in a label.|
 | web                                         | Web                             |Lower case                                                                                                                                                                                                                  |
 | Web link Web Link                           | weblink web-link                 | Two words unhyphenated. Capitalise the words when discussing the Component variant - Web Link Manager.                                                                                                                                                                    |
 | website                                    | web site Web Site Web site        | One word not capitalised                                                                                                       |
