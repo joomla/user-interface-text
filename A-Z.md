@@ -23,6 +23,9 @@
 #### Break  
 Use `<br />` and not `<br>` or `<br/>`
 
+#### Check
+See select.  
+
 #### Contractions
 Use contractions sparingly eg can't. Avoid using you'll, you've, should've, could've, would've etc – these are hard to read.
 
@@ -72,6 +75,9 @@ Use upper case for: East End, West End (London), Middle East, Central America, S
 
 #### Seasons
 Try to avoid using them as they are not global. spring, summer, autumn, winter are lowercase. 
+
+#### Select
+Select a check box item not check a check box item.
 
 #### Sentence length
 Don't use long sentences – check any sentences with more than 25 words to see if you can split them to make them clearer.
