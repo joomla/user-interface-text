@@ -94,7 +94,6 @@ Titles should:
 * be unique, clear and descriptive
 * be front-loaded and optimised for search
 * use a colon to break up longer titles
-* not contain dashes or slashes
 * not have a full stop at the end
 * not use acronyms unless they are well-known eg HTML
 
