@@ -102,7 +102,6 @@ An entry, which is just a word without a comment, is to show how we are spelling
 | User                                        | user                             | When referring to a specific Joomla! User always capitalise first letter                                                                                                                                                                                                  |
 | user group | usergroup User Group|Two words lower case|
 | Username                                    | user name                        | One word. You login with the Username NOT the login name |  
-
 |UTF-8 |utf-8 utf8| Always uppercase and hyphenated|
 |vCard|VCard vcard Vcard | always spelt vCard even at the beginning of a sentence or in a label.|
 | web                                         | Web                             |Lower case                                                                                                                                                                                                                  |
