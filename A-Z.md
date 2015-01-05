@@ -20,6 +20,8 @@
 * Exceptions include where it's part of a specific name, eg '4th Mechanized Brigade'.
 * Use the 'ise' rather than 'ize' suffix, eg organise not organize (this isn't actually an Americanism but is often seen as such).
 
+#### Break  
+Use `<br />` and not `<br>` or `<br/>`
 
 #### Contractions
 Use contractions sparingly eg can't. Avoid using you'll, you've, should've, could've, would've etc – these are hard to read.
