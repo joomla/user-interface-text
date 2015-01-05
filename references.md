@@ -7,7 +7,7 @@ released under the following licence https://www.nationalarchives.gov.uk/doc/ope
 #### Other en-GB Sources
 * [The Guardian](http://www.theguardian.com/info/series/guardian-and-observer-style-guide)
 For usage rights see http://www.theguardian.com/media/mind-your-language/2011/jan/24/mind-your-language-telegraph-style-guide 
-* [The Economist](http://www.economist.com/styleguide/introduction_
+* [The Economist](http://www.economist.com/styleguide/introduction_)
 * [The Telegraph](http://www.telegraph.co.uk/topics/about-us/style-book/)
  
 #### Useful Reading
