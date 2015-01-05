@@ -39,6 +39,13 @@ Use contractions sparingly eg can't. Avoid using you'll, you've, should've, coul
 * don't use 'quarter' for dates; use the months, for example: 'expenses, Jan to Mar 2013'
 * when referring to 'today' (eg in a news article) make sure you include the date as well eg 'The minister announced today (14 June 2012) that…'
 
+#### Email and Email Address
+Email should refer to the item that you send  
+Email address should be used if referring to their actual address  
+
+Example
+* Enter an email address for the user.
+* Select which mailer for the delivery of site email.
 
 #### Geography and regions
 Use lower case for north, south, east and west, except when they're part of a name or recognised region. So, 'the south-west' (compass direction), but 'the South West' (administrative region).  
