@@ -18,7 +18,7 @@ Unfeatured is a description so it is used in filters and selects
 
 #### Log in, Log out
 Login is one word (not hyphenated) when it's a noun eg go to the login page  
-Log in is two words when it's a verb eg you log in with your password  
+Log in is two words when it's a verb eg you log in with your username    
 Logout is one word (not hyphenated) when it's a noun eg select the logout menu  
 Log out is two words when it's a verb eg you log out by clicking on the button  
 
