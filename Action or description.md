@@ -22,6 +22,9 @@ Log in is two words when it's a verb eg you log in with your password
 Logout is one word (not hyphenated) when it's a noun eg select the logout menu  
 Log out is two words when it's a verb eg you log out by clicking on the button  
 
+#### Logged-in
+When counting the number of users we are counting those who are logged-in not logged in.
+
 ####Publish / Unpublish Vs Published / Unpublished
 Publish is an action so it is used on buttons  
 Unpublish is an action so it is used on buttons  
