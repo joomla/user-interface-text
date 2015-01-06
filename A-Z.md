@@ -20,6 +20,9 @@
 * Exceptions include where it's part of a specific name, eg '4th Mechanized Brigade'.
 * Use the 'ise' rather than 'ize' suffix, eg organise not organize (this isn't actually an Americanism but is often seen as such).
 
+#### Ammounts
+See numbers  
+
 #### Break  
 Use `<br />` and not `<br>` or `<br/>`
 
@@ -79,6 +82,8 @@ Use upper case for: East End, West End (London), Middle East, Central America, S
 * Write numbers with digits, not letters (23, not twenty-three).
 * Use numerals even when the number is the first word in a sentence or bullet point.
 * Use numerals for big numbers up to one billon. As a compromise, you can often use numerals for the significant digits and write out the magnitude as a word. For example, write 24 billion.
+* "Enter the **number** of hits to increase the counter by."
+* "Limit the **amount** of text to display"
 
 #### Seasons
 Try to avoid using them as they are not global. spring, summer, autumn, winter are lowercase. 
