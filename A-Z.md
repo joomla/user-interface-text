@@ -50,6 +50,13 @@ Example
 * Enter an email address for the user.
 * Select which mailer for the delivery of site email.
 
+
+#### File Size display:
+* If less than 1 KB, display <1 KB
+* 1 KB to 1,023 KB, display 357 KB
+* 1 MB to 1,047 MB, display 2.5MB (only one decimal place)
+* 1 GB+, display 3.8 GB (only one decimal place)
+
 #### Geography and regions
 Use lower case for north, south, east and west, except when they're part of a name or recognised region. So, 'the south-west' (compass direction), but 'the South West' (administrative region).  
 Use lower case for: the north, the south of England, the south-west, north-east Scotland, south Wales, the west, western Europe, the far east, south-east Asia.  
