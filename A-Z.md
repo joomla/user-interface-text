@@ -29,6 +29,9 @@ Use `<br />` and not `<br>` or `<br/>`
 #### Check
 See select.  
 
+#### Colour codes
+Hex colours are case insensitive so it doesnt matter if we use upper or lowercase. However we should be consistent in our usage. As the color selector fields uses lowercase then the text should also user lowercase for consistency.   
+
 #### Contractions
 Use contractions sparingly eg can't. Avoid using you'll, you've, should've, could've, would've etc – these are hard to read.
 
