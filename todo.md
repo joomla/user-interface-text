@@ -3,7 +3,8 @@
 * ~~PLT approval~~
 * ~~PLT Announcement~~
 * ~~Prepare 1st Pull Requests~~
-* Prepare more Pull Request
+* ~~Prepare more Pull Request~~
+* ~~1st major and several minor pull requests merged ~~
 * Create process for approving new and changed en-GB strings  
 * Publish these docs somewhere  
 * Promote the docs and offer a way for translation teams to fork  
