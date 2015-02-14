@@ -1,28 +1,26 @@
-(Team notes - The information below is specific to content and not sure how it applies to language strings. This needs to be formally discussed and confirmed with Trademark Team.)
-
 ## Proper Use of the Joomla! name
-Joomla! is our name, and as such it deserves everyone's best efforts to protect it.  It defines our brand for both our software and our community.  It sigifies our reputation for excellence.  Here are some guidelines for when and how to properly use our trademark.
+Joomla! is our name, and as such it deserves everyone's best efforts to protect it.  It defines our brand for both our software and our community.  It signifies our reputation for excellence.  Here are some guidelines for when and how to properly use our trademark.
 
 #### "Joomla!" should always be capitalised ... ALWAYS
 It is our project's name and as such it is a proper name.  Just like you would always capitalise a person's name, please always capitalise Joomla.
 
-#### Joomla! is a trademark, and therefore is an adjective, not a noun.
+#### Joomla! is a trademark, and therefore is an adjective, not a noun or a verb.
 The name Joomla has come to signify both our software and our wonderful community, which means it has acquired the status of being a trademark.  For a trademark to remain a trademark, it must not be used as a noun, replacing the noun that it is describing.  Doing so transforms a trademark into a generic word and makes it unprotectable.  Examples are aspirin and escalator. At one time these were strong brand names that signified a specific manufacturer, but now they are dictionary terms that anyone may use.  
 * Wrong:  "You need to update your Joomla." or "Your Joomla is out of date."
 * Right:  "It's time to update your Joomla CMS." or "Install this plugin into your Joomla website."  
-
+As a practical matter, this guideline is for public-facing marketing materials and can be ignored in the context of the CMS software and user documentation and support environment.  A generic reference to Joomla in documentation, code and language strings is acceptable.
 ---------
 
 #### When to bang your Joomla "!"
 Our full proper name since 2005 and our registered trademark is "Joomla!" including the exclamation point.  (The exclamation point is sometimes also called a "bang" from both editorial and comic book usage.)  The most proper and complete use of the name is with the exclamation point.  But, there are many circumstances where including punctuation that also signifies the end of a sentence makes a passage of text difficult to read or confusing.  Also, punctuation is not allowed in certain contexts such as aliases and URL's.  To clarify when to use the exclamation point, here is a hierarchy of rules.
 
 ##### Rule: 
-Use the complete trademark, including the exclamation point (!), whenever possible, and especially with the first predominant use of the mark on any page.
+Use the complete trademark, including the exclamation point (!), whenever possible, and especially as the first predominant use of the mark on any page.
 
 ##### Exceptions to this Rule:
 The trademark is being used in the middle of a sentence that is not a heading.  It simply improves readability to omit the exclamation point.
 
-The trademark is being used in a URL, menu item, page alias or other situation where including punctuation is impractical.
+The trademark is being used in a URL, menu item, page alias or other situation where including punctuation is impractical or not permitted.
 
 The exclamation point would appear next to other punctuation.  
 * Wrong:  "How will this affect Joomla!?" 
@@ -31,6 +29,8 @@ The exclamation point would appear next to other punctuation.
 
 ##### Exception to the Exceptions:
 Whenever the Joomla name is nested inside another multi-word Joomla-related trademark or service mark.  Joomla has numerous trademarks and service marks beyond the Joomla name standing alone.  In these cases, the exclamation point should be used with no exceptions, even when they appear in the middle of a sentence.  For examples, see "Other Joomla Trademarks," below.
+
+Short Answer:  Unless you are referring to a more specific Joomla-related product or service such as the Joomla! Extensions Directory, do not include the exclamation point in descriptions, body text, error messages or code.
 
 ---------
 
@@ -42,17 +42,19 @@ Open Source Matters, Inc. as the legal owner has registered both the Joomla! wor
 
 Including the name Joomla! as a menu item, where the name and logo are at the same size as other menu links, is not considering to be a predominant use so there is no need to add the circle-R to "Joomla!" when it appears as a menu item linking to the home page. This also applies to the Joomla brandmark being used as an icon where it appears among several brandmarks such as the Drupal drop and the WordPress WP.  Only add indicia when Joomla! is appearing as a dominant branding element such as a site logo, in a major heading or title such as in an h1, h2 or h3 tag, or in an illustration that might suggest branding of a page.
 
+Short Answer:  Do not include the circle-R indicia in content viewable in the CMS backend other than placement of the Joomla signature workmark plus design) on the login module and as the branding element appearing on Administrator pages.  It is preferable to include TM indicia in user-facing references to The Joomla! Project, the Joomla! Extensions Directory, or similar Joomla-related services that appear in descriptive text and/or language strings.  No trademark-related indicia should be included in code headers; only project-approved copyright statements.
+
 #### A brief note about Third-Party Websites.  
-The test of whether a use is a trademark use and therefore requires indicia and a disclaimer in the footer is whether a visitor to the site, on a quick first impression, might be confused into thinking they are on an official Joomla-related website because of dominant dominant display and usage of Joomla trademarks.  More information about third party uses, conditional licenses, and the language to use in footers and disclaimers is available on the Open Source Matters website.
+The test of whether a use is a trademark use and therefore requires indicia and a disclaimer in the footer is whether a visitor to the site, on a quick first impression, might be confused into thinking they are on an official Joomla-related website because of dominant dominant display and usage of Joomla trademarks.  If a Joomla trademark and trademark indicia appears on a third-party site, the site MUST have a disclaimer in the footer attributing ownership of the trademarks to Open Source Matters.  More information about third party uses, conditional licenses, and the language to use in footers and disclaimers is available on the Open Source Matters website.
 
 ----------
 
 #### Other Joomla! Trademarks (&trade;)
-There are a number of other trademarks and service marks associated with The Joomla! Project.  We strive to always use the exclamation point and capitalize the initials when the word Joomla is included as part of a longer proper name for a product or service such as the "Joomla! Community Magazine," the "Joomla! Framework" or product releases like "Joomla! 3.3." In these instances it is helpful to add the superscript <sup>TM</sup> indicia the first time a product or service name appears on a page.
+There are a number of other trademarks and service marks associated with The Joomla! Project.  Always use the exclamation point and capitalize the initials when the word Joomla is included as part of a longer proper name for a product or service such as the "Joomla! Community Magazine," the "Joomla! Framework" or product releases like "Joomla! 3.3." In these instances it is preferable to include the superscript <sup>TM</sup> indicia the first time a product or service name appears on a page.
 
 The Circle-R indicia only applies to the use of Joomla! (or Joomla! plus the design) standing alone, outside the context of a more specific product or service name. If Joomla! is part of a longer product or service name such as Joomla! 3.3 or Joomla! Framework or Joomla! Developer Network, then the entire phrase is serving as the proper name for that specific product or service. Therefore, the phrase <em>is</em> a trademark and it should have the TM indicia (&trade;) included with the first dominant use of the mark on a page. These phrases are not registered.  Nevertheless, they are protectable trademarks and service marks because they are in use as trademarks, and so a superscript circle-R should <em>NOT</em> be used with them and instead a superscript TM should be used.
 
-Again, the exclamation point should always be included when Joomla! is part of a longer related trademark.  A generic reference to Joomla as either to the community or the software in general would be without a bang.  Examples: Joomla! 3.3, the Joomla! Framework, the Joomla! Extensions Directory, and The Joomla! Project.  (Notice that "The" is part of the project's trademark and should be capitalised.) 
+Again, the exclamation point should always be included when Joomla! is part of a longer related trademark.  A generic reference in body text to Joomla as either to the community or the software in general should be without a bang.  Examples: Joomla! 3.3, the Joomla! Framework, the Joomla! Extensions Directory, and The Joomla! Project.  (Notice that "The" is part of the project's trademark and should be capitalised.)   Because these are trademarks and also they are unregistered trademarks, extra care is needed to use them consistently to emphasize and retain their trademark status. The registration and broader recognition of the Joomla! wordmark is why we have more flexibility with the Joomla name being used without the bang and as a noun in a descriptive context than we do with these specific Joomla-related products and services.
 
 --------------
 
