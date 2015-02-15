@@ -1,5 +1,5 @@
 ## Proper Use of the Joomla! name
-Joomla! is our name, and as such it deserves everyone's best efforts to protect it.  It defines our brand for both our software and our community.  It signifies our reputation for excellence.  Here are some guidelines for when and how to properly use our trademarks.
+"Joomla!" is our name, and as such it deserves everyone's best efforts to protect it.  It defines our brand for both our software and our community.  It signifies our reputation for excellence.  Here are some guidelines for when and how to properly use our trademarks.
 
 #### "Joomla!" should always be capitalised ... ALWAYS
 It is our project's name and as such it is a proper name.  Just like you would always capitalise a person's name, please always capitalise the "J" of Joomla.
@@ -18,14 +18,14 @@ Whenever the Joomla name is part of or nested inside another multi-word Joomla-r
 #### When to Include Trademark Indicia (<sup>&reg;</sup> or &trade;) 
 Part of protecting a trademark, whether registered or not, is giving notice to viewers that we consider the mark to be our property.  Considering the Joomla! trademark itself, since all backend users must login and will see the Joomla signature and registered trademark indicia on the login module, there is no need to include a registered mark indicia (&reg;) anywhere else in the backend.   
 
-Whenever the Joomla! trademark is being nested within another Joomla-related trademark or service mark, such as a reference to the Joomla! Extensions Directory&trade;, the proper indicia to use is the TM indicia (&trade;) at the end of the entire mark.  Notice the exclamation point is included and the registered indicia (&reg;) normally used with Joomla standing alone, is removed. The &trade; indicia should be used with any reference to a Joomla product or service other than a release of Joomla itself (such as Joomla! 3.4)
+Whenever the Joomla trademark is being nested within another Joomla-related trademark or service mark, such as a reference to the Joomla! Extensions Directory&trade;, the proper indicia to use is the TM indicia (&trade;) at the end of the entire mark.  Notice the exclamation point is included and the registered indicia (&reg;) normally used with Joomla standing alone, is removed. The &trade; indicia should be used with any reference to a Joomla product or service other than a release of Joomla itself (such as Joomla! 3.4)
 
 No trademark-related indicia should be included in code headers; only project-approved copyright statements.
 
 ----------
 
 #### Other Joomla! Trademarks (&trade;)
-There are a number of other trademarks and service marks associated with The Joomla! Project.  Always use the exclamation point and capitalize the initials when the word Joomla is included as part of a longer proper name for a product or service such as the "Joomla! Community Magazine&trade;" the "Joomla! Framework&trade;" or product releases like "Joomla! 3.3."  (The "JoomlaDay&trade;" service mark is the only one permitted to not use the exclamation point.)
+There are a number of other trademarks and service marks associated with The Joomla! Project&trade;.  Always use the exclamation point and capitalize the initials when the word Joomla is included as part of a longer proper name for a product or service such as the "Joomla! Community Magazine&trade;" the "Joomla! Framework&trade;" or product releases like "Joomla! 3.3."  (The "JoomlaDay&trade;" service mark is the only one permitted to not use the exclamation point.)
 
 The Circle-R indicia (&reg;) only applies to the use of Joomla! (or Joomla! plus the design) when it is standing alone, outside the context of a more specific product or service name. If Joomla! is part of a longer product or service name such as Joomla! 3.3 or Joomla! Resources Directory&trade; or Joomla! Developer Network&trade;, then the entire phrase is serving as the proper name for that specific product or service and it should have the TM indicia (&trade;) included at the end of the phrase. 
 
