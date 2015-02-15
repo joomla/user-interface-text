@@ -16,12 +16,12 @@ Examples:  References to the Joomla! Extensions Directory&trade;, the Joomla! Fr
 
 ---------
 
-#### When to Include Trademark Indicia (<sup>&reg;</sup> or &trade;) 
+#### When to Include Trademark Indicia ( <sup>&reg;</sup> or &trade; ) 
 
 ##### Rule: Do not use &reg; in language strings
 Part of protecting a trademark, whether registered or not, is giving notice to viewers that we consider the mark to be our property.  Considering the Joomla! trademark itself, since all backend users must login and will see the Joomla signature and registered trademark indicia on the login module, there is no need to include a registered mark indicia (&reg;) anywhere else in the backend.   
 
-##### Rule:  Use &trade; following other Joomla-related trademarks
+##### Rule:  Always use &trade; following other Joomla-related trademarks
 With other Joomla-related trademarks or service marks, such as a reference to the Joomla! Extensions Directory&trade;, the proper indicia to use is the TM indicia (&trade;) at the end of the entire mark.  Notice the exclamation point is included and the registered indicia (&reg;) normally used with Joomla standing alone, is removed. The &trade; indicia should be used with any reference to a Joomla product or service other than a release of Joomla itself (such as Joomla! 3.4)  
 
 These other trademarks are not registered.  Nevertheless, they are protectable trademarks and service marks.  A superscript circle-R should <em>NOT</em> be used with them; instead a superscript TM should be used.  Because these are unregistered trademarks, extra care is needed to use them consistently on order to emphasize and retain their trademark status. The registration and broader recognition of the main Joomla! wordmark is the reason why we have more flexibility with the Joomla name being used without the exclamation point and as a noun in descriptive context than we do with these other Joomla-related product and service marks.
