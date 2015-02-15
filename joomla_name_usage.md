@@ -31,9 +31,9 @@ No trademark-related indicia should be included in code headers; only project-ap
 ----------
 
 #### Summary:  
-Refer to a specific product release or series as "Joomla! 3" or "Joomla! 3.4" (with an exclamation point.)
-Refer to Joomla in general without the exclamation point.
-Refer to the JED as Joomla! Extensions Directory&trade;
+* Refer to Joomla in general without the exclamation point.
+* Refer to a specific product release or series as "Joomla! 3" or "Joomla! 3.4" (with an exclamation point.)
+* Refer to the JED as Joomla! Extensions Directory&trade; (with exclamation point and TM indicia.)
 
 --------------
 
