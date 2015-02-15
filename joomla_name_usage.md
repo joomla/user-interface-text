@@ -10,28 +10,30 @@ Our full proper name since 2005 and our registered trademark is "Joomla!" includ
 ##### Rule: No Bang!  
 References to Joomla in language strings should not include the exclamation point unless it is at the end of a sentence that is intended to be exclamatory. 
 
-##### Exception to the Rule:  Other trademarks that contain Joomla
-Whenever the Joomla name is part of or nested inside another multi-word Joomla-related trademark or service mark then the exclamation point should be used even though it is mid-sentence.  Capitalised initials suggests but does not always signify a proper name for a product, service or branded feature.  Language strings that are labels or menu items require capitalisation even though they are not associated with a product or feature.  If the use is a proper name it should have capitalised initials and Joomla should include the exclamation point.  If it is not a proper name of a product or feature, then it still may have capitalised initials, but should not use the exclamation point.  Joomla has numerous trademarks and service marks beyond the Joomla name standing alone.  For examples, see "Other Joomla Trademarks," below.  
+##### Exception to the Rule:  Trademarks that contain Joomla
+Whenever the Joomla name is part of or nested inside another multi-word Joomla-related trademark or service mark then the exclamation point should be used even though it is mid-sentence.  If the use is a proper name it should have capitalised initials, Joomla should include the exclamation point and it should be followed by a TM indicia.  
+Examples:  References to the Joomla! Extensions Directory&trade; or the Joomla! Framework&trade;.
 
 ---------
 
 #### When to Include Trademark Indicia (<sup>&reg;</sup> or &trade;) 
+
+##### Rule: Do not use &reg; in language strings
 Part of protecting a trademark, whether registered or not, is giving notice to viewers that we consider the mark to be our property.  Considering the Joomla! trademark itself, since all backend users must login and will see the Joomla signature and registered trademark indicia on the login module, there is no need to include a registered mark indicia (&reg;) anywhere else in the backend.   
 
-Whenever the Joomla trademark is being nested within another Joomla-related trademark or service mark, such as a reference to the Joomla! Extensions Directory&trade;, the proper indicia to use is the TM indicia (&trade;) at the end of the entire mark.  Notice the exclamation point is included and the registered indicia (&reg;) normally used with Joomla standing alone, is removed. The &trade; indicia should be used with any reference to a Joomla product or service other than a release of Joomla itself (such as Joomla! 3.4)
+##### Rule:  Use &trade; following other Joomla-related trademarks
+Whenever the Joomla trademark is being nested within another Joomla-related trademark or service mark, such as a reference to the Joomla! Extensions Directory&trade;, the proper indicia to use is the TM indicia (&trade;) at the end of the entire mark.  Notice the exclamation point is included and the registered indicia (&reg;) normally used with Joomla standing alone, is removed. The &trade; indicia should be used with any reference to a Joomla product or service other than a release of Joomla itself (such as Joomla! 3.4)  
+
+These trademark phrases are not registered.  Nevertheless, they are protectable trademarks and service marks so a superscript circle-R should <em>NOT</em> be used with them and instead a superscript TM should be used.  Because these are unregistered trademarks, extra care is needed to use them consistently to emphasize and retain their trademark status. The registration and broader recognition of the Joomla! wordmark is why we have more flexibility with the Joomla name being used without the exclamation point and as a noun in descriptive context than we do with these specific Joomla-related products and services.
 
 No trademark-related indicia should be included in code headers; only project-approved copyright statements.
 
 ----------
 
-#### Other Joomla! Trademarks (&trade;)
-There are a number of other trademarks and service marks associated with The Joomla! Project&trade;.  Always use the exclamation point and capitalize the initials when the word Joomla is included as part of a longer proper name for a product or service such as the "Joomla! Community Magazine&trade;" the "Joomla! Framework&trade;" or product releases like "Joomla! 3.3."  (The "JoomlaDay&trade;" service mark is the only one permitted to not use the exclamation point.)
-
-The Circle-R indicia (&reg;) only applies to the use of Joomla! (or Joomla! plus the design) when it is standing alone, outside the context of a more specific product or service name. If Joomla! is part of a longer product or service name such as Joomla! 3.3 or Joomla! Resources Directory&trade; or Joomla! Developer Network&trade;, then the entire phrase is serving as the proper name for that specific product or service and it should have the TM indicia (&trade;) included at the end of the phrase. 
-
-These trademark phrases are not registered.  Nevertheless, they are protectable trademarks and service marks so a superscript circle-R should <em>NOT</em> be used with them and instead a superscript TM should be used.  Because these are unregistered trademarks, extra care is needed to use them consistently to emphasize and retain their trademark status. The registration and broader recognition of the Joomla! wordmark is why we have more flexibility with the Joomla name being used without the exclamation point and as a noun in descriptive context than we do with these specific Joomla-related products and services.
-
-Short Answer:  Always refer to a CMS revision as "Joomla! 3", "Joomla! 3.4" or the Joomla CMS, and to the JED as "Joomla! Extensions Directory&trade;"
+#### Summary:  
+Refer to a specific product release or series as "Joomla! 3" or "Joomla! 3.4" (with an exclamation point.)
+Refer to Joomla in general without the exclamation point.
+Refer to the JED as Joomla! Extensions Directory&trade;
 
 --------------
 
