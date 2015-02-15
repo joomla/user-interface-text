@@ -26,8 +26,6 @@ With other Joomla-related trademarks or service marks, such as a reference to th
 
 These other trademarks are not registered.  Nevertheless, they are protectable trademarks and service marks.  A superscript circle-R should <em>NOT</em> be used with them; instead a superscript TM should be used.  Because these are unregistered trademarks, extra care is needed to use them consistently on order to emphasize and retain their trademark status. The registration and broader recognition of the main Joomla! wordmark is the reason why we have more flexibility with the Joomla name being used without the exclamation point and as a noun in descriptive context than we do with these other Joomla-related product and service marks.
 
-No trademark-related indicia should be included in code headers; only project-approved copyright statements.
-
 ----------
 
 #### Summary:  
@@ -38,7 +36,7 @@ No trademark-related indicia should be included in code headers; only project-ap
 --------------
 
 #### HTML Codes
-For consistent display across fonts, use the html codes for copyrght and trademark symbols.  For proper display, wrapping with a superscript `<sup>` tag is necessary for positioning the &reg; indicia.  It is not needed for the &copy; or &trade; indicia.
+For consistent display across fonts, use the html codes for copyright and trademark symbols or indicia.  For proper display, wrapping with a superscript `<sup>` tag is necessary for positioning the &reg; indicia.  It is not needed for the &copy; or &trade; indicia.
 
 * &reg; - for a registered trademark indicia use `<sup>&reg;</sup>`
 * &trade; - for a trademark indicia use `&trade;`
