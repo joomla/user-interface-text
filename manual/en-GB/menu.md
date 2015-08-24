@@ -1,4 +1,4 @@
-- [Introduction](coding-standards/introduction.md)
+- [Introduction](user-interface-text/introduction.md)
 - [Source Code Management](coding-standards/chapters/source-code-management.md)
 - **Coding Standards**
     - [Basic Guidelines](coding-standards/chapters/basic-guidelines.md)
