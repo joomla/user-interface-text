@@ -1,5 +1,5 @@
 - [Introduction](user-interface-text/introduction.md)
-- [Source Code Management](coding-standards/chapters/source-code-management.md)
+- [Second test](user-interface-text/references.md)
 - **Coding Standards**
     - [Basic Guidelines](coding-standards/chapters/basic-guidelines.md)
     - [Inline Code Comments](coding-standards/chapters/inline-comments.md)
