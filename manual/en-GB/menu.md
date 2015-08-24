@@ -1,15 +1,8 @@
 - [Introduction](user-interface-text/introduction.md)
-- [Second test](user-interface-text/references.md)
-- **Coding Standards**
-    - [Basic Guidelines](coding-standards/chapters/basic-guidelines.md)
-    - [Inline Code Comments](coding-standards/chapters/inline-comments.md)
-    - [DocBlocks](coding-standards/chapters/docblocks.md)
-    - [PHP Code](coding-standards/chapters/php.md)
-    - [XML](coding-standards/chapters/xml.md)
-- **Clientside Syntax Styleguides**
-    - [HTML](coding-standards/chapters/html.md)
-    - [CSS](coding-standards/chapters/css.md)
-    - [JavaScript](coding-standards/chapters/javascript.md)
-- **Appendices**
-    - [Code Analysis Tools](appendices/analysis.md)
-    - [Examples](appendices/examples.md)	
+- [References](user-interface-text/references.md)
+- [Punctuation](user-interface-text/punctuation.md)
+- [Capitalisation](user-interface-text/capitalisation.md)
+- [Joomla! Name](user-interface-text/joomla_name_usage.md)
+- [Words to Watch](user-interface-text/words2watch.md)
+- [A to Z](user-interface-text/A-Z.md)
+- [Action or Description](user-interface-text/Action or description.md)
