@@ -1,6 +1,6 @@
 var populateWindow = function(link) {
 	var markdownRequest = new Request({
-		"url": here + 'manual/en-US/' + link,
+		"url": here + 'manual/en-GB/' + link,
 		"method": "get",
 		"onSuccess": function(response) {
 			$('docwin').set('html', marked(response));
@@ -32,7 +32,7 @@ var populateWindow = function(link) {
 
 var populateMenu = function() {
 	var markdownRequest = new Request({
-		"url": here + 'manual/en-US/menu.md',
+		"url": here + 'manual/en-GB/menu.md',
 		"method": "get",
 		"onSuccess": function (response) {
 			$('doc-menu').set('html', marked(response));
@@ -54,7 +54,7 @@ var populateMenu = function() {
 
 var populateVersion = function() {
 	var versionRequest = new Request({
-		"url": here + 'manual/en-US/version.md',
+		"url": here + 'manual/en-GB/version.md',
 		"method": "get",
 		"onSuccess": function(response) {
 			$('version').set('html', marked(response));
@@ -73,7 +73,7 @@ window.addEvent('domready', function() {
 	}
 	else
 	{
-		var currentDoc = "coding-standards/introduction.md";
+		var currentDoc = "user-interface-text/introduction.md";
 	}
 
 	marked.setOptions({
