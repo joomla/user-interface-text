@@ -1,4 +1,4 @@
-
+##  About this guide
 ####Purpose
 * Establish official style guidelines for writing en-GB strings.
 * Ensure consistency throughout Joomla.
