@@ -5,5 +5,5 @@
 - [Joomla! Name](user-interface-text/joomla_name_usage.md)
 - [Words to Watch](user-interface-text/words2watch.md)
 - [A to Z](user-interface-text/A-Z.md)
-- [Description](user-interface-text/Action or description.md)
+- [Action or Description](user-interface-text/Action or description.md)
 
