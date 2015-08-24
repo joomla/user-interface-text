@@ -5,7 +5,6 @@
 
 Words to Watch (W2W) are words commonly misspelled or which may have variations that depend on the Joomla! style guide choices.
 
-An entry, which is just a word without a comment, is to show how we are spelling that word. If an entry has something rather than something else then it should be read as, "We are using the spelling of the first something rather than the other possible spellings shown in something else."
 
 |  Accepted Word                              | Unacceptable Word                | Detail                                                                                                                                                                                                                                                                    |
 | ------------------------------------------- | -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
