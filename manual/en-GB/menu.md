@@ -6,4 +6,5 @@
 - [Words to Watch](user-interface-text/words2watch.md)
 - [A to Z](user-interface-text/A-Z.md)
 - [Action or Description](user-interface-text/action_or_description.md)
+- [Contributing](user-interface-text/contributing.md)
 
