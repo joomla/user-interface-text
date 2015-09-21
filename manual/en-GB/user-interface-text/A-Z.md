@@ -20,7 +20,7 @@
 * Exceptions include where it's part of a specific name, eg '4th Mechanized Brigade'.
 * Use the 'ise' rather than 'ize' suffix, eg organise not organize (this isn't actually an Americanism but is often seen as such).
 
-#### Ammounts
+#### Amounts
 See numbers  
 
 #### Break  
