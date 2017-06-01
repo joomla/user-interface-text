@@ -18,4 +18,4 @@
 * [Microsoft](http://msdn.microsoft.com/en-gb/library/windows/desktop/dn742478.aspx)
 
 #### Punctuation Codes
-* http://character-code.com/punctuation-html-codes.php
+* https://websitebuilders.com/tools/html-codes/punctuation/
