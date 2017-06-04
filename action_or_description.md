@@ -8,8 +8,8 @@ Unarchived is a description so it is used in filters and selects
 #### Check in, Check out
 Check-in is hyphenated when it’s a noun eg  I was early for check-in  
 Check in is two words when it's a verb eg I walked up to the counter to check in  
-Checkout is one word when it's a noun eg you wait in the checkout line  
-Check out is two words when it's a verb eg you are ready to check out of the hotel  
+Checkout is one word when it's a noun eg you wait in the checkout line
+Check out is two words when it's a verb eg you are ready to check out of the hotel
 
 #### Feature / Unfeature Vs Featured / Unfeatured
 Feature is an action so it is used on buttons  
