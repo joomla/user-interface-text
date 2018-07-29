@@ -1,5 +1,3 @@
-## Capitalisation
-
 DON'T USE BLOCK CAPITALS FOR LARGE AMOUNTS OF TEXT AS IT'S QUITE HARD TO READ.
 
 Sentence case is preferable but use capitalisation for:
@@ -13,5 +11,3 @@ Do not capitalise joining words and words of three characters or less such as an
 #### Examples
 * Show Intro Text  
 * Position of Article Info
-
-
