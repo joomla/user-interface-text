@@ -22,9 +22,6 @@
 ### Amounts
 See numbers  
 
-### Break  
-Use `<br />` and not `<br>` or `<br/>`
-
 ### Check
 See select.  
 
@@ -99,6 +96,9 @@ Select a check box item not check a check box item.
 
 ### Sentence length
 Don't use long sentences – check any sentences with more than 25 words to see if you can split them to make them clearer.
+
+### Singular and Plural
+In general a string with a constant of ARTICLE_PUBLISHED_1 should have a value of "Article published." and not "1 Article ...
 
 ### Times
 * use 'to' in time ranges – not hyphens, en rules or em dashes, eg 10am to 11am (not 10–11am)
