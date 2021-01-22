@@ -1,4 +1,4 @@
-The official language of Joomla is en-GB and this guide is intended to assist anyone writing language strings in en-GB (British English). This guide should not be translated but may help serve as a starting point for Translation Teams to localise and produce their own guide.
+The official language of Joomla is en-GB and this guide is intended to assist anyone writing language strings in en-GB (English English). This guide should not be translated but may help serve as a starting point for Translation Teams to localise and produce their own guide.
 
 ### Purpose
 * Establish official style guidelines for writing en-GB strings.
