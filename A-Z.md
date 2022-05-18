@@ -129,4 +129,4 @@ Tooltips should:
 This should always be written with a capital letter unless the trademark is for lowercase eg iPhone.
 
 ### Two Factor Authentication
-This should not be used. See multi-factor authentication.
+This should not be used. See Multi-factor Authentication.
