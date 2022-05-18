@@ -81,7 +81,7 @@ Use upper case for: East End, West End (London), Middle East, Central America, S
 * Currencies are lowercase.
 
 ### Multi-factor Authentication
-Always use the hyphenated word. When it is capitalised then only capitalise the complete word eg Multi-factor and not Multi-Factor.
+Always use the hyphenated word. Multi-factor must always be a single hyphenated word and only the complete words should be capitalised.
 
 ### Numbers
 (I have changed this based on the NNG findings (http://www.nngroup.com/articles/web-writing-show-numbers-as-numerals/))
