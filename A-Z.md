@@ -80,6 +80,9 @@ Use upper case for: East End, West End (London), Middle East, Central America, S
 * Write out 'pence' in full eg 'calls will cost 4 pence per minute from a landline'.
 * Currencies are lowercase.
 
+### Multi-factor Authentication
+Always use the hyphenated word.
+
 ### Numbers
 (I have changed this based on the NNG findings (http://www.nngroup.com/articles/web-writing-show-numbers-as-numerals/))
 * Write numbers with digits, not letters (23, not twenty-three).
@@ -124,3 +127,6 @@ Tooltips should:
 
 ### Trademarked Name
 This should always be written with a capital letter unless the trademark is for lowercase eg iPhone.
+
+### Two Factor Authentication
+This should not be used. See multi-factor authentication.
