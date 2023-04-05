@@ -1,3 +1,7 @@
+# Archived and moved
+The styleguide has now been moved to https://manual.joomla.org and this repository has been archived.
+
+
 # Joomla User Interface Text Guidelines
 A repository for the en-GB style guide of Joomla! language strings.
 
